@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+venv/
+*.pyc
+build/
+PKG-INFO
+.egg-info/
+dist/
+byu_awslogin.egg-info/
+.cache/
+.pytest_cache/
+.python-version
+.vscode/
